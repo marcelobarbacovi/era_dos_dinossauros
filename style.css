@@ -1,0 +1,24 @@
+    body {}
+    
+    h1.a {
+        background: red
+    }
+    
+    h3 {
+        border: greenyellow 1px solid;
+        border-color: green;
+        background-color: rgb(173, 231, 173);
+        padding: 10px;
+    }
+    
+    nav#menu ul {
+        list-style: none;
+        text-transform: uppercase;
+    }
+    
+    nav#menu li {
+        display: inline-block;
+        background-color: BLACK;
+        border: BLACK 1PX solid;
+        color: white;
+    }
